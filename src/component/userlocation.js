@@ -87,7 +87,7 @@ class LocationSearchInput extends React.Component {
                 inputMode: "numeric",
               }}
               {...getInputProps({
-                placeholder: "Search Places ...",
+                placeholder: "Search Places...",
                 className: "location-search-input",
               })}
               id="outlined-basic"

@@ -4,6 +4,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  /* filter: blur(1px); */
 }
 .head_container {
   display: flex;
