@@ -22,3 +22,6 @@ https://api.openweathermap.org/data/2.5/weather?lat=${initial_location.lat}&lon=
 ```
 
 Install npm packages and run file to find weather of your seached location.
+
+Project Trailer :
+![Alt Text](https://raw.githubusercontent.com/SamirSaji/weather-app-using-react/main/src/assets/projectTrailer.gif)
