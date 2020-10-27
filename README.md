@@ -21,7 +21,14 @@ Then Add OpenWeather API Credential Key in App.js File Following this:
 https://api.openweathermap.org/data/2.5/weather?lat=${initial_location.lat}&lon=${initial_location.lng}&appid={YOUR_OPENWEATHER_API_KEY}
 ```
 
+---
+
+**NOTE**
+
+Please Delete ProjectTrailer.gif in assets file.
+
+---
+
 Install npm packages and run file to find weather of your seached location.
 
-Project Trailer :
 ![Alt Text](https://raw.githubusercontent.com/SamirSaji/weather-app-using-react/main/src/assets/projectTrailer.gif)
