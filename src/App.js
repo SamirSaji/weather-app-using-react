@@ -32,7 +32,7 @@ function App(props) {
     async function apifunc(props) {
       await axios
         .get(
-          `https://api.openweathermap.org/data/2.5/weather?lat=${initial_location.lat}&lon=${initial_location.lng}&appid=7854e53a58de1d8bcc4635736c7b63d5`
+          `https://api.openweathermap.org/data/2.5/weather?lat=${initial_location.lat}&lon=${initial_location.lng}&appid={YOUR_OPENWEATHER_API_KEY}`
         )
         .then((response) => {
           let climatedata = {
