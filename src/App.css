@@ -39,16 +39,14 @@
 .textfield {
   margin: 0px;
 }
-/* .dropdown_class {
-  background-color: transparent !important;
-  color: #fff !important;
-  opacity: 0.8;
+@media screen and (max-width: 992px) {
+  .description_text {
+    font-size: 25px;
+  }
+  .country_text {
+    font-size: 18px;
+  }
+  .extra_content {
+    font-size: 20px;
+  }
 }
-.dropdown_class:hover {
-  color: #000 !important;
-  background-color: grey !important;
-}
-.dropdown_class:active {
-  opacity: 0.8 !important;
-  background-color: grey !important;
-} */
